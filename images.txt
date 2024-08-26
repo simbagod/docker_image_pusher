@@ -1,4 +1,4 @@
-# nginx
+# base
 nginx:1.25.3
 bitnami/mysql:8.0.39
 redis:7.4.0
